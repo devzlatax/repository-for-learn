@@ -10,4 +10,12 @@ public class Test {
             System.out.println("i = " + i);
         }
     }
+
+    public class StashTest {
+        public void printStash() {
+            System.out.println("Testin how stash stuff works!\n");
+        }
+
+    }
 }
+
