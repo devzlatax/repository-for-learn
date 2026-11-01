@@ -15,7 +15,7 @@ public class Test {
         public void printStash() {
             System.out.println("Testing how stash stuff works!\n");
 
-            System.out.println("Another made changed!\n");
+            System.out.println("Another made changed for fetch!\n");
         }
 
     }
